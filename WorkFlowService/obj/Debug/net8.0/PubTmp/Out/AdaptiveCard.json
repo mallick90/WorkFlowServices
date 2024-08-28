@@ -1,0 +1,38 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.5",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Document Review notification",
+      "weight": "Bolder",
+      "size": "Medium"
+    },
+    {
+      "type": "Input.ChoiceSet",
+      "id": "choice2",
+      "label": "Task Status",
+      "choices": [
+        {
+          "title": "Approve",
+          "value": "A"
+        },
+        {
+          "title": "Denied",
+          "value": "D"
+        }
+      ],
+      "value": ""
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Submit",
+      "data": {
+        "action": "submitDocRevNotify"
+      }
+    }
+  ]
+}

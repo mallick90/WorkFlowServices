@@ -1,0 +1,11 @@
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\WorkFlowService.exe
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\AdaptiveCard.json
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\WorkFlowService.dll
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\WorkFlowService.deps.json
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\WorkFlowService.runtimeconfig.json
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\WorkFlowService.pdb
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\AWSSDK.Core.dll
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\AWSSDK.EventBridge.dll
+C:\MY_Work\WorkFlowService\WorkFlowService\obj\Debug\net8.0\PubTmp\Out\Newtonsoft.Json.dll
