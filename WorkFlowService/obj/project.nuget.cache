@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+CagE9vPB4=",
+  "success": true,
+  "projectFilePath": "C:\\MY_Work\\WorkFlowServices\\WorkFlowService\\WorkFlowService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\awssdk.core\\3.7.400.11\\awssdk.core.3.7.400.11.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\awssdk.eventbridge\\3.7.401.9\\awssdk.eventbridge.3.7.401.9.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
